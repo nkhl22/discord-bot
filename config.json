@@ -1,0 +1,9 @@
+
+{
+  "token": "YOUR_TOKEN_BOT",
+  "guildId": "YOUR_ID_SERVER",
+  "clientId": "YOUR_APP_ID",
+  "announcementChannelId": "YOUR_ANOUNCE_CHANEL",
+  "welcomeChannelId": "LOG_MEMBER_CHANEL",
+  "autoRoleId": "ROLE_PERMISSION_CAN_USE"
+}
