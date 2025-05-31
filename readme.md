@@ -34,3 +34,5 @@ cd xitehub
 
 # ganti token di config.js
 # ganti chanel di repp.js
+# run deploy-commands.js
+# run index.js
